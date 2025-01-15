@@ -67,7 +67,7 @@ export const RESUME_DATA = {
   work: [
     {
       company: "Porviva GmbH",
-      link: "https://porviva.example", // Update with the actual company link
+      link: "https://www.porviva.com/", // Update with the actual company link
       badges: ["On-site", "Go", "Python", "PyTorch", "Flutter"],
       title: "Software Developer (AI/ML)",
       logo: ConsultlyLogo, // Update logo import as you see fit
