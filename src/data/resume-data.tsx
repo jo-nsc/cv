@@ -34,7 +34,7 @@ export const RESUME_DATA = {
       {
         name: "GitHub",
         // Replace with your actual GitHub profile if you have one
-        url: "https://github.com/your-github-profile",
+        url: "https://github.com/jo-nsc",
         icon: GitHubIcon,
       },
       {
