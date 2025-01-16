@@ -97,8 +97,8 @@ export const RESUME_DATA = {
     {
       company: "BTG Pactual S.A",
       link: "https://www.btgpactual.com/",
-      badges: ["Hybrid", "Python", "LLMs", "AWS", "Cloud"],
-      title: "Software Developer",
+      badges: ["Remote", "Python", "LLMs", "AWS", "Cloud"],
+      title: "Software Development Intern",
       logo: ParabolLogo, // Change or remove if you prefer a different placeholder
       start: "Sep 2023",
       end: "Dec 2023",
@@ -159,8 +159,8 @@ export const RESUME_DATA = {
       badges: ["On-Site", "Machine Learning", "CNN", "Python", "Medical Imaging"],
       title: "Machine Learning Engineer Intern",
       logo: ClevertechLogo, // Use an appropriate logo import or placeholder
-      start: "2021",
-      end: "2023",
+      start: "Sep 2022",
+      end: "Aug 2023",
       description: (
         <>
           Learned and used software development and machine learning concepts to develop  medical imaging software.
@@ -176,7 +176,7 @@ export const RESUME_DATA = {
               time and cost.
             </li>
             <li>
-              Trained and deployed <strong>ML</strong> models to production using{" "}
+              Trained and deployed <strong>machine learning</strong> models to production using{" "}
               <strong>TensorFlow</strong>, optimizing inference latency and
               scalability.
             </li>
