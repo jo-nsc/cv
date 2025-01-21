@@ -79,7 +79,7 @@ export const RESUME_DATA = {
           document management within the construction industry.
           <ul className="list-inside list-disc mt-2">
             <li>
-              Developed a backend solution using <strong>Go</strong> and <strong>Python</strong>for
+              Developed a backend solution using <strong>Go</strong> and <strong>Python</strong> for
               large-scale document and media management.
             </li>
             <li>
@@ -94,60 +94,31 @@ export const RESUME_DATA = {
         </>
       ),
     },
-    {
-      company: "BTG Pactual S.A",
-      link: "https://www.btgpactual.com/",
-      badges: ["Remote", "Python", "LLMs", "AWS", "Cloud"],
-      title: "Software Development Intern",
-      logo: ParabolLogo, // Change or remove if you prefer a different placeholder
-      start: "Sep 2023",
-      end: "Dec 2023",
-      description: (
-        <>
-          Part-time position focusing on streamlining legal processes and
-          automating documentation workflows.
-          <ul className="list-inside list-disc mt-2">
-            <li>
-              Developed a <strong>Python</strong> solution to organize and
-              centralize the company’s legal actionss.
-            </li>
-            <li>
-              Created an <strong>LLM-based agent</strong> using the{" "}
-              <strong>OpenAI API</strong> to automate legal document analysis,
-              significantly boosting operational efficiency.
-            </li>
-            <li>
-              Deployed services on <strong>AWS</strong> (
-              <em>S3, SQS, EKS</em>), optimizing scalability and reliability.
-            </li>
-          </ul>
-        </>
-      ),
-    },
     // {
-    //   company: "LfB Institute – RWTH-Aachen University Hospital",
-    //   link: "https://www.lfb.rwth-aachen.de/", // If there's a real link
-    //   badges: ["Academic", "Deep Learning", "CNN", "Python", "Computer Vision"],
-    //   title: "Master Thesis Student",
-    //   logo: ClevertechLogo, // Placeholder logo
-    //   start: "Mar 2023",
-    //   end: "Aug 2023",
+    //   company: "BTG Pactual S.A",
+    //   link: "https://www.btgpactual.com/",
+    //   badges: ["Remote", "Python", "LLMs", "AWS", "Cloud"],
+    //   title: "Software Development Intern",
+    //   logo: ParabolLogo, // Change or remove if you prefer a different placeholder
+    //   start: "Sep 2023",
+    //   end: "Dec 2023",
     //   description: (
     //     <>
-    //       Conducted in-depth research on deep learning methods for medical image
-    //       segmentation.
+    //       Part-time position focusing on streamlining legal processes and
+    //       automating documentation workflows.
     //       <ul className="list-inside list-disc mt-2">
     //         <li>
-    //           Designed and trained convolutional neural networks to automatically
-    //           segment bones from <strong>CT images</strong>.
+    //           Developed a <strong>Python</strong> solution to organize and
+    //           centralize the company’s legal actionss.
     //         </li>
     //         <li>
-    //           Collaborated with clinical professionals and integrated feedback
-    //           to improve segmentation accuracy.
+    //           Created an <strong>LLM-based agent</strong> using the{" "}
+    //           <strong>OpenAI API</strong> to automate legal document analysis,
+    //           significantly boosting operational efficiency.
     //         </li>
     //         <li>
-    //           Experimented with data augmentation techniques to enhance model
-    //           robustness and consistency.
+    //           Deployed services on <strong>AWS</strong> (
+    //           <em>S3, SQS, EKS</em>), optimizing scalability and reliability.
     //         </li>
     //       </ul>
     //     </>
@@ -157,7 +128,7 @@ export const RESUME_DATA = {
       company: "Inzipio GmbH",
       link: "https://inzipio-medical.com", // Replace with the actual company link
       badges: ["On-Site", "Machine Learning", "CNN", "Python", "Medical Imaging"],
-      title: "Machine Learning Engineer Intern",
+      title: "Machine Learning Engineer",
       logo: ClevertechLogo, // Use an appropriate logo import or placeholder
       start: "Sep 2022",
       end: "Aug 2023",
@@ -179,6 +150,30 @@ export const RESUME_DATA = {
               Trained and deployed <strong>machine learning</strong> models to production using{" "}
               <strong>TensorFlow</strong>, optimizing inference latency and
               scalability.
+            </li>
+          </ul>
+        </>
+      ),
+    },
+    {
+      company: "University of São Paulo",
+      link: "https://www.lfb.rwth-aachen.de/", // If there's a real link
+      badges: ["Hybrid", "Deep Learning", "CNN", "Python", "Computer Vision"],
+      title: "Research Assistant",
+      logo: ClevertechLogo, // Placeholder logo
+      start: "Mar 2020",
+      end: "Sep 2021",
+      description: (
+        <>
+          Conducted in-depth research on machine learning visualization methods applied to computer vision problems
+          <ul className="list-inside list-disc mt-2">
+            <li>
+              Used <strong>Python</strong> to implement different machine learning visualization techniques
+              in computer vision problems.
+            </li>
+            <li>
+              Trained various <strong>CNN</strong> models using <strong>Tensorflow</strong> to classify COVID-19
+              from CT images.
             </li>
           </ul>
         </>
