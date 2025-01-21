@@ -158,7 +158,7 @@ export const RESUME_DATA = {
     {
       company: "University of São Paulo",
       link: "https://www.lfb.rwth-aachen.de/", // If there's a real link
-      badges: ["Hybrid", "Deep Learning", "CNN", "Python", "Computer Vision"],
+      badges: ["Hybrid", "Machine Learning", "Tensorflow", "Python"],
       title: "Research Assistant",
       logo: ClevertechLogo, // Placeholder logo
       start: "Mar 2020",
